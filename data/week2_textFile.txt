@@ -1,0 +1,4 @@
+"rollno"	"age"	"sex"
+"1"	1	8	"male"
+"2"	2	9	"female"
+"3"	3	8	"male"
